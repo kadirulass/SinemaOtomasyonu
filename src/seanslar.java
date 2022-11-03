@@ -1,0 +1,10 @@
+
+public class seanslar {
+	public String ad;
+	public int id;
+	@Override
+	public String toString() {
+		return ad;
+	}
+
+}
